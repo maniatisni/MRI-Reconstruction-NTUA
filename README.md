@@ -15,4 +15,4 @@
 
 ![alt text](https://github.com/maniatisni/MRI-Reconstruction-NTUA/blob/main/RESULTS/custom-Lamda1-slice2.png)
 
-- Για αλλαγή του $\lambda$ αλλάζουμε το `noise_lvl` στο αρχείο `dnn_Cartesian_Custom.py` στην γραμμή [463](https://github.com/maniatisni/MRI-Reconstruction-NTUA/blob/main/CODE/dnn_Cartesian_Custom.py#L463). 
+- Για αλλαγή του λ αλλάζουμε το `noise_lvl` στο αρχείο `dnn_Cartesian_Custom.py` στην γραμμή [463](https://github.com/maniatisni/MRI-Reconstruction-NTUA/blob/main/CODE/dnn_Cartesian_Custom.py#L463). 
